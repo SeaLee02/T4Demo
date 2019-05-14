@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionString": "server=.;uid=test;pwd=Test!1234;database=db",
+  "IsOverrideFile": false,
+  "NameSpace": "My.Entity.Demo",
+  "TableName": "DM_"
+}
